@@ -24,7 +24,7 @@
       "launchBrowser": true,
       "launchUrl": "api/tasksnotifier",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Production"
       }
     },
     "Docker": {
